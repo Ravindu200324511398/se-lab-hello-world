@@ -1,4 +1,4 @@
-# 🎓 Maven SE Lab — Hello World
+#  Maven SE Lab — Hello World
 
 A foundational Java application managed with Apache Maven, built as part of the Software Engineering laboratory curriculum to demonstrate project structure, dependency management, and lifecycle execution.
 
